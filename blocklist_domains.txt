@@ -16,17 +16,18 @@ crazygames.com
 miniclip.com
 agame.com
 gameyoungerdns.com
-th.crazygames.com
-reefix.online
+www.th.crazygames.com
+www.reefix.online
 www.y8.in.th
 www.friv.com
-global.stateofsurvival.game
-https://global.stateofsurvival.game/
-https://stateofsurvival.game/
-https://krunker.io/
-https://www.y100.info/
-https://www.y9gamer.com/
-https://www.y10000-games.com/
+www.global.stateofsurvival.game
+www.stateofsurvival.game
+www.krunker.io
+www.y100.info
+www.y9gamer.com
+www.y10000-games.com
+www.bluearchive.nexon.com
+www.kuioo.tw
 
 # --- แพลตฟอร์มเกม ---
 steampowered.com
