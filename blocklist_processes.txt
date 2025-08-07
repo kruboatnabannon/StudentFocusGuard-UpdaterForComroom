@@ -1,7 +1,148 @@
 # Student Focus Guard - Process Blocklist
 # หนึ่งชื่อโปรเซสต่อหนึ่งบรรทัด
 # บรรทัดที่ขึ้นต้นด้วย # จะถูกข้ามไป
+# --- Roblox ---
+RobloxPlayerBeta
+RobloxStudioBeta
 
+# --- แพลตฟอร์มเกมยอดนิยม (Popular Game Platforms) ---
+steam
+steamwebhelper
+EpicGamesLauncher
+Garena
+GarenaMessenger
+garena_lol
+RiotClientServices
+EADesktop
+EALauncher
+EABackgroundService
+UbisoftConnect
+upc
+Uplay
+Battle.net
+Agent
+GOG Galaxy
+GalaxyClient
+RockstarService
+itch
+
+# --- เกมแนว FPS / Battle Royale ---
+VALORANT
+VALORANT-Win64-Shipping
+r5apex
+FortniteClient-Win64-Shipping
+cs2
+RainbowSix
+FreeFire
+FreeFireMAX
+TslGame
+Overwatch
+cod
+
+# --- เกมแนว MOBA ---
+League of Legends
+LeagueClient
+dota2
+HoN
+
+# --- เกมแนว MMORPG / Action RPG / อื่นๆ ---
+GenshinImpact
+YuanShen
+StarRail
+BlackDesert64
+Palworld-Win64-Shipping
+BH3
+javaw
+BedrockLauncher
+FC24
+Gta5
+Wow
+Diablo IV
+FiveM
+FiveM_GTAProcess
+
+# --- โปรแกรมสื่อสารสำหรับเล่นเกม ---
+Discord
+ts3client_win64
+ts3client_win32
+mumble
+Skype
+
+# --- Android Emulators ---
+HD-Player
+HD-Agent
+Bluestacks
+BlueStacksServices
+BlueStacksX
+Nox
+NoxVMSVC
+dnplayer
+Ld9Box
+Ld9BoxHeadless
+MEmu
+MEmuConsole
+NemuPlayer
+aow_exe
+AppMarket
+SOSPCLauncher
+PC-Launcher
+sspc
+
+# --- Google Play Games Beta ---
+crosvm
+Games
+Service
+
+# --- Console Emulators ---
+Dolphin
+Cemu
+yuzu
+Ryujinx
+pcsx2
+pcsx2-qt
+rpcs3
+ePSXe
+duckstation-qt-x64-ReleaseLTCG
+xemu
+xenia
+retroarch
+mame
+mame64
+Project64
+snes9x
+snes9x-x64
+mGBA
+VisualBoyAdvance
+DeSmuME
+
+# --- Virtual Machines (VM) ---
+VirtualBox
+VirtualBoxVM
+VirtualBoxSvc
+vmware
+vmware-vmx
+qemu-system-x86_64
+vmwp
+
+# --- Overlays & Hardware Utilities ---
+MSIAfterburner
+RivaTunerStatisticsServer
+NZXTCAM
+iCUE
+GG
+SteelSeriesEngine
+RazerCentral
+RzSynapse
+
+# --- โปรแกรมอื่นๆ ที่อาจไม่เกี่ยวข้องกับการเรียน ---
+opera
+opera_assistant
+Spotify
+SpotifyWebHelper
+Streamlabs Desktop
+qbittrent
+uTorrent
+CCXProcess
 # --- Roblox ---
 RobloxPlayerBeta.exe
 RobloxStudioBeta.exe
