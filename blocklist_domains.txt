@@ -28,6 +28,7 @@ www.y9gamer.com
 www.y10000-games.com
 www.bluearchive.nexon.com
 www.kuioo.tw
+www.nexon.com
 
 # --- แพลตฟอร์มเกม ---
 steampowered.com
