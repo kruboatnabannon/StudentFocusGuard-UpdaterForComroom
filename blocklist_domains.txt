@@ -31,6 +31,7 @@ www.kuioo.tw
 https://kuioo.tw/
 kuioo.tw
 
+
 www.nexon.com
 
 # --- แพลตฟอร์มเกม ---
@@ -391,3 +392,8 @@ https://www.wixgames.com
 https://www.yo-kai-world.com/games
 https://www.zuma-games.com
 https://www.y10000-games.com/
+https://www.y100.info/games/y10000
+https://www.y10000-games.com/games/y10000-games
+https://www.y10000-games.com/2-players
+https://www.y100.info/games/y100000
+https://www.y82020.com/tag/y100000
